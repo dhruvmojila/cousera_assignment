@@ -1,0 +1,43 @@
+.logo{
+    height: 130px;
+    width: auto;
+} 
+.headfont{
+    font-size: 20px;
+    color: white;
+}
+.background{
+    background-image: url(PicsArt_10-07-11.17.44.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 512px;
+    background-position: center center;
+}
+.logo:hover{
+    cursor: pointer;
+}
+.foot{
+    background-color: rgb(58, 58, 58);
+}
+.font{
+    color: white;
+}
+.m_block-1:hover {
+    cursor: pointer;
+    content: url(m_index.jpg);
+    /* opacity: 0.8; */
+    
+
+}
+.m_block-2:hover {
+    cursor: pointer;
+}
+.m_block-3:hover {
+    cursor: pointer;
+}
+.m_block-4:hover {
+    cursor: pointer;
+}
+html {
+    scroll-behavior: smooth;
+}

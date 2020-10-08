@@ -1,0 +1,27 @@
+ .logo{
+    height: 130px;
+    width: auto;
+} 
+.headfont{
+    font-size: 20px;
+    color: white;
+}
+.headfont:active{
+    color: black;
+}
+.background{
+    background-image: url(back3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 512px;
+    background-position: center center;
+}
+.logo:hover{
+    cursor: pointer;
+}
+.foot{
+    background-color: rgb(58, 58, 58);
+}
+.font{
+    color: white;
+}
