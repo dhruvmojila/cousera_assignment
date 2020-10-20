@@ -3,6 +3,7 @@
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
+    scroll-behavior: smooth;
 }
 body{
     background-color: rgb(235, 235, 235);
@@ -43,7 +44,7 @@ body{
     padding-right: 12px;
     padding-left: 12px;
 }
-#container{
+#container-css{
     width: 100%;
     padding: auto;
 }
@@ -76,7 +77,7 @@ body{
     .col-lg-3{
         width: 25%;
     }
-    .col-lg-4{
+    .col-lg1-4{
         width: 28%;
     }
     .col-lg-5{
@@ -121,7 +122,7 @@ body{
     .col-md-5{
         width: 41.66%;
     }
-    .col-md-6{
+    .col-md1-6{
         width: 42%;
     }
     .col-md-7{
@@ -177,7 +178,7 @@ body{
     .col-sl-11{
         width: 91.66%;
     }
-    .col-sl-12{
+    .col-sl1-12{
         width: 85%;
     
     }
